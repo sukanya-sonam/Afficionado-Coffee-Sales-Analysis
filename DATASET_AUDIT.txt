@@ -1,0 +1,1 @@
+Rows: 149116\nColumns: 11\nMissing values: 0\nDuplicates: 0\nYear values: [2025]\nNo transaction_date/day/month field present.\n
